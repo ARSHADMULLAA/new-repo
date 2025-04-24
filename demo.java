@@ -1,8 +1,8 @@
-pubic class add two number {
-public static void main (string[] args) {
-    int num 1 = 10;
-    int num 2 = 20;
-    int sum = num1+num2;
-    system.out.printin("sumo of two numbers" "+ num1+ and num2+" is" +sum")
+public class demo {
+public static void main (String[] args) {
+    int num1=10;
+    int num2=20;
+    int sum = num1 + num2;
+    System.out.println(" sum of two numbers + num1+ and num2 "+ sum );
 }
 }
