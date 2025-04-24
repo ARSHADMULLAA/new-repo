@@ -1,8 +1,14 @@
 public class demo {
-public static void main (String[] args) {
-    int num1=10;
-    int num2=20;
-    int sum = num1 + num2;
-    System.out.println(" sum of two numbers + num1+ and num2 "+ sum );
-}
+    public static void main(String[] args) {
+        double num1 = 10.5;
+        double num2 = 5;
+
+        double addition= num1 + num2;
+        double subtraction = num1 - num2;
+
+        System.out.println("Addition: " + addition);
+        System.out.println("Subtraction: " + subtraction);
+        System.out.println("multiplication: " + (num1*num2));
+        System.out.println("div: " + (num1/num2));
+    }
 }
